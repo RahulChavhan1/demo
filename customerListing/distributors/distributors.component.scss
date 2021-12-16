@@ -1,0 +1,26 @@
+
+.table-primary{
+background-color: #1976d2;
+color: white;
+
+}
+// :host ::ng-deep .p-panel{
+//     max-width: 75%;
+// }
+
+ .search {
+    background: #00A7E8 ;
+    color: white;
+    border:1px solid gray;
+}
+ 
+.container {
+    position: relative;
+    width: 90%;
+    border: 1px solid gray;
+    padding-bottom: 4%;
+  }
+ 
+  .text{
+      text-align: center;
+  }
